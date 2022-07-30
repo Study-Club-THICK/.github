@@ -6,5 +6,5 @@
   <img height="200" src="https://user-images.githubusercontent.com/58914195/181877399-51603fd1-fc50-46d7-a2cb-4643b73209c7.gif" />
 </p>
 
-<p>Build on 2022</p>
+<p align="center">Build on 2022</p>
 
